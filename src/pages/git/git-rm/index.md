@@ -1,3 +1,7 @@
+---
+title: Git rm command
+---
+
 ## Git rm
 
 The ```git rm``` command allows you to remove files from the working tree and from the index.
